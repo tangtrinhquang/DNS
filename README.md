@@ -10,4 +10,4 @@
 - Giảng viên hướng dẫn: Thầy Lương Minh Huấn
 - Hoàn tất các công việc:
   - Báo cáo lý thuyết + thực hành DNS (demo)
-  - Báo cáo AutoScript
+  - Báo cáo Auto Script
