@@ -7,7 +7,7 @@
   - 3119410418 - Trần Gia Thuận
   - 3120410485 - Quản Xuân Thắng
   - 3120410492 - Nguyễn Chí Thiện
-- Giảng viên hướng dẫn: Thầy Lương Minh Huấn
+- Giảng viên hướng dẫn: ThS. Lương Minh Huấn
 - Hoàn tất các công việc:
   - Báo cáo lý thuyết + thực hành DNS (demo)
   - Báo cáo Auto Script
